@@ -4,10 +4,10 @@
 /*       |- [ ⚠ ] - CREDITOS DEL CODIGO - [ ⚠ ] -|      */
 /*     —◉ DESAROLLADO POR OTOSAKA:                       */
 /*     ◉ Otosaka (https://github.com/6otosaka9)          */
-/*     ◉ Número: wa.me/56983073328                       */
+/*     ◉ Número: wa.me/15043305909                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ 𝐊𝐈𝐋𝐋𝐙𝐍 (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)  */
+/*     ◉ Mᴀʀɪᴏ ʙʀᴏss (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
@@ -67,5 +67,5 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
    }
  }
 };
-handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|𝐊𝐈𝐋𝐋𝐙𝐍|𝐊𝐈𝐋𝐋𝐙𝐍Bot)$/i;
+handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|Mᴀʀɪᴏ ʙʀᴏss|Mᴀʀɪᴏ ʙʀᴏssBot)$/i;
 export default handler;
